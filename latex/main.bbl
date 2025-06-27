@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{sasrec}
+Wang-Cheng Kang and Julian McAuley.
+\newblock Self-attentive sequential recommendation.
+\newblock In {\em 2018 IEEE International Conference on Data Mining (ICDM)}, pages 197--206. IEEE, 2018.
+
+\bibitem{transformer}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N Gomez, \L~ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In I.~Guyon, U.~Von Luxburg, S.~Bengio, H.~Wallach, R.~Fergus, S.~Vishwanathan, and R.~Garnett, editors, {\em Advances in Neural Information Processing Systems}, volume~30. Curran Associates, Inc., 2017.
+
+\bibitem{bert4rec}
+Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, and Peng Jiang.
+\newblock Bert4rec: Sequential recommendation with bidirectional encoder representations from transformer.
+\newblock In {\em Proceedings of the 28th ACM International Conference on Information and Knowledge Management}, CIKM '19, page 1441–1450, New York, NY, USA, 2019. Association for Computing Machinery.
+
+\bibitem{bert}
+Jacob Devlin, Ming~Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language understanding.
+\newblock In {\em Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, vol. 6. long and short papers: Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2019), 2-7 June 2019, Minneapolis, Minnesota, USA}, 2019.
+
+\bibitem{gold}
+Anton Klenitskiy and Alexey Vasilev.
+\newblock Turning dross into gold loss: is bert4rec really better than sasrec?
+\newblock In {\em Proceedings of the 17th ACM Conference on Recommender Systems}, RecSys '23, page 1120–1125, New York, NY, USA, 2023. Association for Computing Machinery.
+
+\bibitem{visa}
+Huiyuan Chen, Yusan Lin, Menghai Pan, Lan Wang, Chin-Chia~Michael Yeh, Xiaoting Li, Yan Zheng, Fei Wang, and Hao Yang.
+\newblock Denoising self-attentive sequential recommendation.
+\newblock In {\em Proceedings of the 16th ACM Conference on Recommender Systems}, RecSys '22, page 92–101, New York, NY, USA, 2022. Association for Computing Machinery.
+
+\bibitem{hstu}
+Jiaqi Zhai, Lucy Liao, Xing Liu, Yueming Wang, Rui Li, Xuan Cao, Leon Gao, Zhaojie Gong, Fangda Gu, Jiayuan He, Yinghai Lu, and Yu~Shi.
+\newblock Actions speak louder than words: trillion-parameter sequential transducers for generative recommendations.
+\newblock In {\em Proceedings of the 41st International Conference on Machine Learning}, ICML'24. JMLR.org, 2024.
+
+\bibitem{hllm}
+Junyi Chen, Lu~Chi, Bingyue Peng, and Zehuan Yuan.
+\newblock Hllm: Enhancing sequential recommendations via hierarchical large language models for item and user modeling.
+\newblock {\em arXiv preprint arXiv:2409.12740}, 2024.
+
+\end{thebibliography}
